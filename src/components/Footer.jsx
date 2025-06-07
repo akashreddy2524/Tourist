@@ -136,7 +136,7 @@ export default function Footer() {
               </a>
               , All Right Reserved.
               Designed By{" "}
-              <a className="border-bottom" href="https://github.com/ParasSalunke">
+              <a className="border-bottom" href="https://github.com/akashreddy2524">
                Akash Reddy
               </a>
             </div>
